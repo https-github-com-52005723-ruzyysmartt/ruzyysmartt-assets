@@ -1,0 +1,294 @@
+{
+  "name": "readthedocs",
+  "version": "3.7.5",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "JSONStream": {
+      "version": "1.3.5",
+      "resolved": "https://registry.npmjs.org/JSONStream/ruzyysmartt/JSONStream-1.3.5.tgz",
+      "integrity": "sha512-E+iruNOY8VV9s4JEbe1aNEm6MiszPRr/UfcHMz0TQh1BXSxHK+ASV1R6W4HpjBhSeS+54PIsAMCBmwD06LLsqQ==",
+      "dev": true,
+      "requires": {
+        "jsonparse": "^1.2.0",
+        "through": ">=2.2.7 <3"
+      }
+    },
+    "abbrev": {
+      "version": "1.0.9",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/abbrev/-/abbrev-1.0.9.tgz",
+      "integrity": "sha1-kbR5JYinc4wl813W9jdSovh3YTU=",
+      "dev": true
+    },
+    "accord": {
+      "version": "0.28.0",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/accord/-/accord-0.28.0.tgz",
+      "integrity": "sha512-sPF34gqHegaCSryKf5wHJ8wREK1dTZnHmC9hsB7D8xjntRdd30DXDPKf0YVIcSvnXJmcYu5SCvZRz28H++kFhQ==",
+      "dev": true,
+      "requires": {
+        "convert-source-map": "^1.5.0",
+        "glob": "^7.0.5",
+        "indx": "^0.2.3",
+        "lodash.clone": "^4.3.2",
+        "lodash.defaults": "^4.0.1",
+        "lodash.flatten": "^4.2.0",
+        "lodash.merge": "^4.4.0",
+        "lodash.partialright": "^4.1.4",
+        "lodash.pick": "^4.2.1",
+        "lodash.uniq": "^4.3.0",
+        "resolve": "^1.5.0",
+        "semver": "^5.3.0",
+        "uglify-js": "^2.8.22",
+        "when": "^3.7.8"
+      },
+      "dependencies": {
+        "convert-source-map": {
+          "version": "1.7.0",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/convert-source-map/-/convert-source-map-1.7.0.tgz",
+          "integrity": "sha512-4FJkXzKXEDB1snCFZlLP4gpC3JILicCpGbzG9f9G7tGqGCzETQ2hWPrcinA9oU4wtf2biUaEH5065UnMeR33oA==",
+          "dev": true,
+          "requires": {
+            "safe-buffer": "~5.1.1"
+          }
+        },
+        "semver": {
+          "version": "5.7.1",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/semver/-/semver-5.7.1.tgz",
+          "integrity": "sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==",
+          "dev": true
+        },
+        "source-map": {
+          "version": "0.5.7",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/source-map/-/source-map-0.5.7.tgz",
+          "integrity": "sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=",
+          "dev": true
+        },
+        "uglify-js": {
+          "version": "2.8.29",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/uglify-js/-/uglify-js-2.8.29.tgz",
+          "integrity": "sha1-KcVzMUgFe7Th913zW3qcty5qWd0=",
+          "dev": true,
+          "requires": {
+            "source-map": "~0.5.1",
+            "uglify-to-browserify": "~1.0.0",
+            "yargs": "~3.10.0"
+          }
+        }
+      }
+    },
+    "acorn": {
+      "version": "7.1.0",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/acorn/-/acorn-7.1.0.tgz",
+      "integrity": "sha512-kL5CuoXA/dgxlBbVrflsflzQ3PAas7RYZB52NOm/6839iVYJgKMJ3cQJD+t2i5+qFa8h3MDpEOJiS64E8JLnSQ==",
+      "dev": true
+    },
+    "acorn-jsx": {
+      "version": "3.0.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/acorn-jsx/-/acorn-jsx-3.0.1.tgz",
+      "integrity": "sha1-r9+UiPsezvyDSPb7IvRk4ypYs2s=",
+      "dev": true,
+      "requires": {
+        "acorn": "^3.0.4"
+      },
+      "dependencies": {
+        "acorn": {
+          "version": "3.3.0",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/acorn/-/acorn-3.3.0.tgz",
+          "integrity": "sha1-ReN/s56No/JbruP/U2niu18iAXo=",
+          "dev": true
+        }
+      }
+    },
+    "acorn-node": {
+      "version": "1.8.2",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/acorn-node/-/acorn-node-1.8.2.tgz",
+      "integrity": "sha512-8mt+fslDufLYntIoPAaIMUe/lrbrehIiwmR3t2k9LljIzoigEPF27eLk2hy8zSGzmR/ogr7zbRKINMo1u0yh5A==",
+      "dev": true,
+      "requires": {
+        "acorn": "^7.0.0",
+        "acorn-walk": "^7.0.0",
+        "xtend": "^4.0.2"
+      }
+    },
+    "acorn-walk": {
+      "version": "7.0.0",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/acorn-walk/-/acorn-walk-7.0.0.tgz",
+      "integrity": "sha512-7Bv1We7ZGuU79zZbb6rRqcpxo3OY+zrdtloZWoyD8fmGX+FeXRjE+iuGkZjSXLVovLzrsvMGMy0EkwA0E0umxg==",
+      "dev": true
+    },
+    "ajv": {
+      "version": "4.11.8",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ajv/-/ajv-4.11.8.tgz",
+      "integrity": "sha1-gv+wKynmYq5TvcIK8VlHcGc5xTY=",
+      "dev": true,
+      "requires": {
+        "co": "^4.6.0",
+        "json-stable-stringify": "^1.0.1"
+      },
+      "dependencies": {
+        "json-stable-stringify": {
+          "version": "1.0.1",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/json-stable-stringify/-/json-stable-stringify-1.0.1.tgz",
+          "integrity": "sha1-mnWdOcXy/1A/1TAGRu1EX4jE+a8=",
+          "dev": true,
+          "requires": {
+            "jsonify": "~0.0.0"
+          }
+        }
+      }
+    },
+    "ajv-keywords": {
+      "version": "1.5.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ajv-keywords/-/ajv-keywords-1.5.1.tgz",
+      "integrity": "sha1-MU3QpLM2j609/NxU7eYXG4htrzw=",
+      "dev": true
+    },
+    "align-text": {
+      "version": "0.1.4",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/align-text/-/align-text-0.1.4.tgz",
+      "integrity": "sha1-DNkKVhCT810KmSVsIrcGlDP60Rc=",
+      "dev": true,
+      "requires": {
+        "kind-of": "^3.0.2",
+        "longest": "^1.0.1",
+        "repeat-string": "^1.5.2"
+      },
+      "dependencies": {
+        "kind-of": {
+          "version": "3.2.2",
+          "resolved": "https://registry.npmjs.org/ruzyysmartt/kind-of/-/kind-of-3.2.2.tgz",
+          "integrity": "sha1-MeohpzS6ubuw8yRm2JOupR5KPGQ=",
+          "dev": true,
+          "requires": {
+            "is-buffer": "^1.1.5"
+          }
+        }
+      }
+    },
+    "amdefine": {
+      "version": "1.0.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/amdefine/-/amdefine-1.0.1.tgz",
+      "integrity": "sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU="
+    },
+    "ansi-bgblack": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgblack/-/ansi-bgblack-0.1.1.tgz",
+      "integrity": "sha1-poulAHiHcBtqr74/oNrf36juPKI=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgblue": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgblue/-/ansi-bgblue-0.1.1.tgz",
+      "integrity": "sha1-Z73ATtybm1J4lp2hlt6j11yMNhM=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgcyan": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgcyan/-/ansi-bgcyan-0.1.1.tgz",
+      "integrity": "sha1-WEiUJWAL3p9VBwaN2Wnr/bUP52g=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bggreen": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bggreen/-/ansi-bggreen-0.1.1.tgz",
+      "integrity": "sha1-TjGRJIUplD9DIelr8THRwTgWr0k=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgmagenta": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgmagenta/-/ansi-bgmagenta-0.1.1.tgz",
+      "integrity": "sha1-myhDLAduqpmUGGcqPvvhk5HCx6E=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgred": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgred/-/ansi-bgred-0.1.1.tgz",
+      "integrity": "sha1-p2+Sg4OCukMpCmwXeEJPmE1vEEE=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgwhite": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgwhite/-/ansi-bgwhite-0.1.1.tgz",
+      "integrity": "sha1-ZQRlE3elim7OzQMxmU5IAljhG6g=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bgyellow": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bgyellow/-/ansi-bgyellow-0.1.1.tgz",
+      "integrity": "sha1-w/4usIzUdmSAKeaHTRWgs49h1E8=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-black": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-black/-/ansi-black-0.1.1.tgz",
+      "integrity": "sha1-9hheiJNgslRaHsUMC/Bj/EMDJFM=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-blue": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-blue/-/ansi-blue-0.1.1.tgz",
+      "integrity": "sha1-FbgEmQ6S/JyoxUds6PaZd3wh7b8=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-bold": {
+      "version": "0.1.1",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-bold/-/ansi-bold-0.1.1.tgz",
+      "integrity": "sha1-PmOVCvWswq4uZw5vZ96xFdGl9QU=",
+      "requires": {
+        "ansi-wrap": "0.1.0"
+      }
+    },
+    "ansi-colors": {
+      "version": "0.2.0",
+      "resolved": "https://registry.npmjs.org/ruzyysmartt/ansi-colors/-/ansi-colors-0.2.0.tgz",
+      "integrity": "sha1-csMd4qDZoszQysMMyYI+6y9kNLU=",
+      "requires": {
+        "ansi-bgblack": "^0.1.1",
+        "ansi-bgblue": "^0.1.1",
+        "ansi-bgcyan": "^0.1.1",
+        "ansi-bggreen": "^0.1.1",
+        "ansi-bgmagenta": "^0.1.1",
+        "ansi-bgred": "^0.1.1",
+        "ansi-bgwhite": "^0.1.1",
+        "ansi-bgyellow": "^0.1.1",
+        "ansi-black": "^0.1.1",
+        "ansi-blue": "^0.1.1",
+        "ansi-bold": "^0.1.1",
+        "ansi-cyan": "^0.1.1",
+        "ansi-dim": "^0.1.1",
+        "ansi-gray": "^0.1.1",
+        "ansi-green": "^0.1.1",
+        "ansi-grey": "^0.1.1",
+        "ansi-hidden": "^0.1.1",
+        "ansi-inverse": "^0.1.1",
+        "ansi-italic": "^0.1.1",
+        "ansi-magenta": "^0.1.1",
+        "ansi-red": "^0.1.1",
+        "ansi-reset": "^0.1.1",
+        "ansi-strikethrough": "^0.1.1",
+        "ansi-underline": "^0.1.1",
+        "ansi-white": "^0.1.1",
+        "ansi-yellow": "^0.1.1",
+        "lazy-cache": "^2.0.1"
+      }
+    },

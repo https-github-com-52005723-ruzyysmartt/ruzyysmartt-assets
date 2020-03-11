@@ -1,0 +1,302 @@
+[
+  {
+    "ref": "refs/heads/eip-1102",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6ZWlwLTExMDI=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/heads/eip-1102",
+    "object": {
+      "sha": "89ecd247d5a5a4479fcb1e35fb69e5642fe67f75",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/89ecd247d5a5a4479fcb1e35fb69e5642fe67f75"
+    }
+  },
+  {
+    "ref": "refs/heads/master",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6bWFzdGVy",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/heads/master",
+    "object": {
+      "sha": "9257d7d52784afa957c12166aff20682cf692ae5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/9257d7d52784afa957c12166aff20682cf692ae5"
+    }
+  },
+  {
+    "ref": "refs/pull/2/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzIvaGVhZA==",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/2/head",
+    "object": {
+      "sha": "f01a31e6ed0387d964b98ef7a215f3d0c06d94c3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/f01a31e6ed0387d964b98ef7a215f3d0c06d94c3"
+    }
+  },
+  {
+    "ref": "refs/pull/9/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzkvaGVhZA==",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/9/head",
+    "object": {
+      "sha": "1f5de093341a70a8eb29adac0a5633f5bafd7361",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/1f5de093341a70a8eb29adac0a5633f5bafd7361"
+    }
+  },
+  {
+    "ref": "refs/pull/11/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExL2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/11/head",
+    "object": {
+      "sha": "b22b8943066d599d9262d32be3a2d72d8142ffc0",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/b22b8943066d599d9262d32be3a2d72d8142ffc0"
+    }
+  },
+  {
+    "ref": "refs/pull/13/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEzL2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/13/head",
+    "object": {
+      "sha": "975cdbaae4f67b367330fd5e570374a339881e43",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/975cdbaae4f67b367330fd5e570374a339881e43"
+    }
+  },
+  {
+    "ref": "refs/pull/16/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzE2L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/16/head",
+    "object": {
+      "sha": "06c00171b93f70fec747a31b970effbf91abc5b3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/06c00171b93f70fec747a31b970effbf91abc5b3"
+    }
+  },
+  {
+    "ref": "refs/pull/16/merge",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzE2L21lcmdl",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/16/merge",
+    "object": {
+      "sha": "6d8ada89a67aa6ae7c951cf1117103cf371cf1e4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/6d8ada89a67aa6ae7c951cf1117103cf371cf1e4"
+    }
+  },
+  {
+    "ref": "refs/pull/18/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzE4L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/18/head",
+    "object": {
+      "sha": "5a23ea5de36835f45f17d4e348a9b763e4014c17",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/5a23ea5de36835f45f17d4e348a9b763e4014c17"
+    }
+  },
+  {
+    "ref": "refs/pull/19/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzE5L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/19/head",
+    "object": {
+      "sha": "78c588489157fabf4ad3f2ee8eb81a5f65bfde55",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/78c588489157fabf4ad3f2ee8eb81a5f65bfde55"
+    }
+  },
+  {
+    "ref": "refs/pull/64/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzY0L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/64/head",
+    "object": {
+      "sha": "308f5a5a6f90b92b6df3b65e64876f4e6f9267fa",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/308f5a5a6f90b92b6df3b65e64876f4e6f9267fa"
+    }
+  },
+  {
+    "ref": "refs/pull/68/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzY4L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/68/head",
+    "object": {
+      "sha": "14af2ee1ae9b51c99a11ed583079879903316436",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/14af2ee1ae9b51c99a11ed583079879903316436"
+    }
+  },
+  {
+    "ref": "refs/pull/69/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzY5L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/69/head",
+    "object": {
+      "sha": "29be593258901395af1600161c8bd221c6675c15",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/29be593258901395af1600161c8bd221c6675c15"
+    }
+  },
+  {
+    "ref": "refs/pull/82/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzgyL2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/82/head",
+    "object": {
+      "sha": "804083e8063bec3cdd0c20fe07a3feb536a194e4",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/804083e8063bec3cdd0c20fe07a3feb536a194e4"
+    }
+  },
+  {
+    "ref": "refs/pull/95/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzk1L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/95/head",
+    "object": {
+      "sha": "5677ca9b4d3d183df5d2e966678504c4160e70fb",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/5677ca9b4d3d183df5d2e966678504c4160e70fb"
+    }
+  },
+  {
+    "ref": "refs/pull/96/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzk2L2hlYWQ=",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/96/head",
+    "object": {
+      "sha": "ca82bc5e4bfe66e7fca493a184c86d554c5ef773",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/ca82bc5e4bfe66e7fca493a184c86d554c5ef773"
+    }
+  },
+  {
+    "ref": "refs/pull/100/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEwMC9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/100/head",
+    "object": {
+      "sha": "2be0a5b120dd42b8489cf3f49f774bf16b23d43c",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/2be0a5b120dd42b8489cf3f49f774bf16b23d43c"
+    }
+  },
+  {
+    "ref": "refs/pull/101/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEwMS9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/101/head",
+    "object": {
+      "sha": "5d0cc0a3a8a0d6cc6f9a68dcd8118e1ff32f1ab1",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/5d0cc0a3a8a0d6cc6f9a68dcd8118e1ff32f1ab1"
+    }
+  },
+  {
+    "ref": "refs/pull/107/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEwNy9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/107/head",
+    "object": {
+      "sha": "9a6b54ce5f102785b36f9fb48a4dc54034168774",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/9a6b54ce5f102785b36f9fb48a4dc54034168774"
+    }
+  },
+  {
+    "ref": "refs/pull/115/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExNS9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/115/head",
+    "object": {
+      "sha": "c7140106094b59baef286042043d546ae1b2af50",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/c7140106094b59baef286042043d546ae1b2af50"
+    }
+  },
+  {
+    "ref": "refs/pull/116/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExNi9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/116/head",
+    "object": {
+      "sha": "a207df03cb0a06ee56ff7265ac3b86bd2b5f50da",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/a207df03cb0a06ee56ff7265ac3b86bd2b5f50da"
+    }
+  },
+  {
+    "ref": "refs/pull/117/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExNy9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/117/head",
+    "object": {
+      "sha": "89ecd247d5a5a4479fcb1e35fb69e5642fe67f75",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/89ecd247d5a5a4479fcb1e35fb69e5642fe67f75"
+    }
+  },
+  {
+    "ref": "refs/pull/118/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExOC9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/118/head",
+    "object": {
+      "sha": "eaafad47e572f2147320580881c8ff27f717d70e",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/eaafad47e572f2147320580881c8ff27f717d70e"
+    }
+  },
+  {
+    "ref": "refs/pull/119/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzExOS9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/119/head",
+    "object": {
+      "sha": "09281ac3dfcc19703f25fc9c960d2b7c65a0a4b3",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/09281ac3dfcc19703f25fc9c960d2b7c65a0a4b3"
+    }
+  },
+  {
+    "ref": "refs/pull/120/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMC9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/120/head",
+    "object": {
+      "sha": "84dff54d3d9bd79f9b6f1aa6bc35603faeb05673",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/84dff54d3d9bd79f9b6f1aa6bc35603faeb05673"
+    }
+  },
+  {
+    "ref": "refs/pull/121/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMS9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/121/head",
+    "object": {
+      "sha": "27dca64da426e986b52af0e6ddcc548d514a83c7",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/27dca64da426e986b52af0e6ddcc548d514a83c7"
+    }
+  },
+  {
+    "ref": "refs/pull/122/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMi9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/122/head",
+    "object": {
+      "sha": "89ecd247d5a5a4479fcb1e35fb69e5642fe67f75",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/89ecd247d5a5a4479fcb1e35fb69e5642fe67f75"
+    }
+  },
+  {
+    "ref": "refs/pull/122/merge",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMi9tZXJnZQ==",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/122/merge",
+    "object": {
+      "sha": "653002d5393c5669c5af912a548e3e3d507d421a",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/653002d5393c5669c5af912a548e3e3d507d421a"
+    }
+  },
+  {
+    "ref": "refs/pull/123/head",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMy9oZWFk",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/123/head",
+    "object": {
+      "sha": "85eb20b081707009649a227d8ef2bc26d09336e5",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/85eb20b081707009649a227d8ef2bc26d09336e5"
+    }
+  },
+  {
+    "ref": "refs/pull/123/merge",
+    "node_id": "MDM6UmVmNTY4ODcxMjg6cmVmcy9wdWxsLzEyMy9tZXJnZQ==",
+    "url": "https://api.github.com/repos/MetaMask/faq/git/refs/pull/123/merge",
+    "object": {
+      "sha": "279efa7d262f36957af0959a4901f3b9d6c1c66f",
+      "type": "commit",
+      "url": "https://api.github.com/repos/MetaMask/faq/git/commits/279efa7d262f36957af0959a4901f3b9d6c1c66f"
+    }
+  }
+]
